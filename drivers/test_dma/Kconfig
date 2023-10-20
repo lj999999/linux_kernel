@@ -1,0 +1,4 @@
+config TEST_DMA
+    tristate "Test DMA"
+    help
+    DMA Test case
